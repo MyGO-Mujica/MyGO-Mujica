@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyGO-Mujica&layout=compact)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyGO-Mujica&show_icons=true&theme=radical)](https://github.com/MyGO-Mujica)
-
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MyGO-Mujica&theme=react-dark)](https://github.com/MyGO-Mujica)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MyGO-Mujica&theme=dark)](https://github.com/MyGO-Mujica)
