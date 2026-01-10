@@ -1,6 +1,6 @@
 ## 奇迹与魔法，都是存在的
 
-一个和期末周斗争的可怜人
-
+![MyGO-Mujica's GitHub chart](https://ghchart.rshah.org/MyGO-Mujica)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyGO-Mujica&layout=compact&langs_count=8&theme=light)
 
 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀  🚀 
