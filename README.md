@@ -2,7 +2,17 @@
 
 
 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 
-[![MyGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyGO-Mujica)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Activity Stats
+
+<div style="display: flex; justify-content: center; align-content: center; height: auto;">
+  <img src="https://gh-stats.whispery.top/api?username=MyGO-Mujica&show_icons=true"
+    style="display: block; height: 100%;" />
+  <img src="https://gh-stats.whispery.top/api/top-langs/?username=MyGO-Mujica&layout=compact&hide=html,css,scss"
+    style="display: block; height: 100%;" />
+</div>
+
+
+[![MyGO-Mujica's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyGO-Mujica&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
 
 
 <div align="right">
