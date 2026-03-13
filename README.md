@@ -5,10 +5,9 @@
 ## 📈 Activity Stats
 
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
-  <img src="https://gh-stats.whispery.top/api?username=MyGO-Mujica&show_icons=true"
+   <img src="https://gh-stats-kappa.vercel.app/api?username=MyGO-Mujica&show_icons=true"
     style="display: block; height: 100%;" />
-  <img src="https://gh-stats.whispery.top/api/top-langs/?username=MyGO-Mujica&layout=compact&hide=html,css,scss"
-    style="display: block; height: 100%;" />
+  <img src="https://gh-stats-kappa.vercel.app/api/top-langs/?username=MyGO-Mujica&layout=compact&hide=html,css,scss"
 </div>
 
 
