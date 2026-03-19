@@ -14,10 +14,16 @@
 [![MyGO-Mujica's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyGO-Mujica&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
 
 
-<div align="right">
-  <a href="https://wakatime.com/@2ae03833-d031-47a6-95fe-4752f613cfd1"><img src="https://wakatime.com/badge/user/2ae03833-d031-47a6-95fe-4752f613cfd1.svg" alt="Total time coded since Mar 2 2026" /></a>
-<br/>
+<div align="center">
+  <b>Diving into code with second:</b>
+  <br/>
+  <br/>
+  <a href="https://wakatime.com/@122119c8-ad52-4b18-8087-1458836967e0">
+    <img src="https://moe-wakatimer.mygo-wakatimer.workers.dev/?theme=mcapoo-2" alt="Total second " />
+  </a>
+  <br/>
   <sub>
-    Tracking with WakaTime since Mar 2, 2025
+    Tracking with <b>WakaTime</b> since Mar 2, 2026
   </sub>
+  <br/>
 </div>
