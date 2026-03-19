@@ -19,7 +19,7 @@
   <br/>
   <br/>
   <a href="https://wakatime.com/@2ae03833-d031-47a6-95fe-4752f613cfd1">
-    <img src="https://moe-wakatimer.mygo-wakatimer.workers.dev/?theme=mcapoo-2" alt="Total second " />
+    <img src="https://moe-wakatimer.mygo-wakatimer.workers.dev/?theme=capoo-2" alt="Total second " />
   </a>
   <br/>
   <sub>
