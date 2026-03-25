@@ -21,7 +21,7 @@
 
 
 
-[![MyGO-Mujica's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyGO-Mujica&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
+[![MyGO-Mujica's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyGO-Mujica&theme=github-compact)](https://github.com/MyGO-Mujica)
 
 <div align="right">
   <a href="https://wakatime.com/@2ae03833-d031-47a6-95fe-4752f613cfd1"><img src="https://wakatime.com/badge/user/2ae03833-d031-47a6-95fe-4752f613cfd1.svg" alt="Total time coded since Mar 2 2026" /></a>
