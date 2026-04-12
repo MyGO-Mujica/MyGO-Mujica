@@ -1,7 +1,8 @@
 ## 奇迹与魔法，都是存在的
 
 
-🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 
+🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀
+
 ## 📈 Activity Stats
 
 <div style="display: flex; justify-content: center; align-content: center; height: auto;">
