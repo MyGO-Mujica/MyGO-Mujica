@@ -4,8 +4,9 @@
 
 ## 📈 Activity Stats
 
-<div style="display: flex; justify-content: center; align-content: center; height: auto;">
-  <img src="https://gh-stats-kappa.vercel.app/api/top-langs/?username=MyGO-Mujica&layout=compact&hide=html,css,scss"
+<div style="display: flex; justify-content: center; align-content: center; height: auto; gap: 8px; flex-wrap: wrap;">
+  <img src="./profile/stats.svg" alt="MyGO-Mujica's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="MyGO-Mujica's Top Languages" />
 </div>
 
 |                 | *我真会*                                                     | *上升期*                                                     | *用过就是精通*                                               | *听过就是擅长*                                               |
